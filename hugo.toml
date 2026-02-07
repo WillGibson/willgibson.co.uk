@@ -7,20 +7,20 @@ publishDir = "docs"
     [[menu.main]]
         identifier = "home"
         name = "Home"
-        url = "/home/"
+        url = "/willgibson.co.uk/home/"
         weight = 1
     [[menu.main]]
         identifier = "devops-software-engineer"
         name = "DevOps Software Engineer"
-        url = "/devops-software-engineer/"
+        url = "/willgibson.co.uk/devops-software-engineer/"
         weight = 2
     [[menu.main]]
         identifier = "musician-producer"
         name = "Musician Producer"
-        url = "/musician-producer/"
+        url = "/willgibson.co.uk/musician-producer/"
         weight = 3
     [[menu.main]]
         identifier = "jugaads"
         name = "Jugaads"
-        url = "/jugaads/"
+        url = "/willgibson.co.uk/jugaads/"
         weight = 4
