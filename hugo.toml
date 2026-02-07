@@ -1,4 +1,4 @@
-baseURL = 'https://willgibson.github.io/willgibson.co.uk/'
+baseURL = 'https://willgibson.co.uk'
 languageCode = 'en-gb'
 title = 'Will Gibson AKA Walter Ego'
 theme = 'ananke'
@@ -7,20 +7,20 @@ publishDir = "docs"
     [[menu.main]]
         identifier = "home"
         name = "Home"
-        url = "/willgibson.co.uk/home/"
+        url = "/"
         weight = 1
     [[menu.main]]
         identifier = "devops-software-engineer"
         name = "DevOps Software Engineer"
-        url = "/willgibson.co.uk/devops-software-engineer/"
+        url = "/devops-software-engineer/"
         weight = 2
     [[menu.main]]
         identifier = "musician-producer"
         name = "Musician Producer"
-        url = "/willgibson.co.uk/musician-producer/"
+        url = "/musician-producer/"
         weight = 3
     [[menu.main]]
         identifier = "jugaads"
         name = "Jugaads"
-        url = "/willgibson.co.uk/jugaads/"
+        url = "/jugaads/"
         weight = 4

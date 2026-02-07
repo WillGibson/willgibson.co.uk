@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jugaads on Will Gibson AKA Walter Ego</title>
-    <link>http://localhost:1313/willgibson.co.uk/jugaads/</link>
+    <link>http://localhost:1313/jugaads/</link>
     <description>Recent content in Jugaads on Will Gibson AKA Walter Ego</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 07 Feb 2026 21:10:20 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/willgibson.co.uk/jugaads/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/jugaads/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Refurbishing a Dog Wheelchair in Goa</title>
-      <link>http://localhost:1313/willgibson.co.uk/jugaads/refurbishing-a-dog-wheelchair/</link>
+      <link>http://localhost:1313/jugaads/refurbishing-a-dog-wheelchair/</link>
       <pubDate>Sat, 07 Feb 2026 21:10:20 +0530</pubDate>
-      <guid>http://localhost:1313/willgibson.co.uk/jugaads/refurbishing-a-dog-wheelchair/</guid>
+      <guid>http://localhost:1313/jugaads/refurbishing-a-dog-wheelchair/</guid>
       <description>&lt;h2 id=&#34;refurbishing-a-dog-wheelchair-in-goa&#34;&gt;Refurbishing a dog wheelchair in Goa&lt;/h2&gt;&#xA;&lt;p&gt;This is a placeholder, I&amp;rsquo;ve been refurbishing dog wheelchairs at &lt;a href=&#34;https://www.arcgoa.in/&#34;&gt;ARC South Goa&lt;/a&gt; using things available in Chaudi (the local town) plus some ideas from Liz Gibson, and will be making a page here to help other folk like me who want to help, but are better at fixing the things around the dogs than the dogs themselves.&lt;/p&gt;</description>
     </item>
   </channel>

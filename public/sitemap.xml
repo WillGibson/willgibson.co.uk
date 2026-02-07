@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/willgibson.co.uk/musician-producer/</loc>
+    <loc>http://localhost:1313/musician-producer/</loc>
     <lastmod>2026-02-07T21:58:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/willgibson.co.uk/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-07T21:58:45+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/willgibson.co.uk/jugaads/</loc>
+    <loc>http://localhost:1313/jugaads/</loc>
     <lastmod>2026-02-07T21:10:20+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/willgibson.co.uk/jugaads/refurbishing-a-dog-wheelchair/</loc>
+    <loc>http://localhost:1313/jugaads/refurbishing-a-dog-wheelchair/</loc>
     <lastmod>2026-02-07T21:10:20+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/willgibson.co.uk/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/willgibson.co.uk/devops-software-engineer/</loc>
+    <loc>http://localhost:1313/devops-software-engineer/</loc>
   </url><url>
-    <loc>http://localhost:1313/willgibson.co.uk/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/willgibson.co.uk/home/</loc>
+    <loc>http://localhost:1313/home/</loc>
   </url>
 </urlset>
