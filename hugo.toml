@@ -1,4 +1,4 @@
-baseURL = 'https://willgibson.co.uk/'
+baseURL = 'https://willgibson.github.io/willgibson.co.uk/'
 languageCode = 'en-gb'
 title = 'Will Gibson AKA Walter Ego'
 theme = 'ananke'

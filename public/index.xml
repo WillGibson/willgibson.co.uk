@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Will Gibson AKA Walter Ego</title>
+    <link>http://localhost:1313/willgibson.co.uk/</link>
+    <description>Recent content on Will Gibson AKA Walter Ego</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 07 Feb 2026 21:58:45 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/willgibson.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Musician Producer Identity</title>
+      <link>http://localhost:1313/willgibson.co.uk/musician-producer/</link>
+      <pubDate>Sat, 07 Feb 2026 21:58:45 +0530</pubDate>
+      <guid>http://localhost:1313/willgibson.co.uk/musician-producer/</guid>
+      <description>&lt;p&gt;You can start here for now &lt;a href=&#34;https://open.spotify.com/artist/2qOzFVDvsvRawMovX3rH0V?si=lztpHNoSQY-dquCi5tsTig&#34;&gt;Will Gibson on Spotify&lt;/a&gt;, I will fill in the gaps and get more detailed soon, promise.&lt;/p&gt;&#xA;&lt;p&gt;Also, my band &lt;a href=&#34;https://open.spotify.com/album/5hNCHMEmbZgNTHu5kgUwvq&#34;&gt;Article released an album recently&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Refurbishing a Dog Wheelchair in Goa</title>
+      <link>http://localhost:1313/willgibson.co.uk/jugaads/refurbishing-a-dog-wheelchair/</link>
+      <pubDate>Sat, 07 Feb 2026 21:10:20 +0530</pubDate>
+      <guid>http://localhost:1313/willgibson.co.uk/jugaads/refurbishing-a-dog-wheelchair/</guid>
+      <description>&lt;h2 id=&#34;refurbishing-a-dog-wheelchair-in-goa&#34;&gt;Refurbishing a dog wheelchair in Goa&lt;/h2&gt;&#xA;&lt;p&gt;This is a placeholder, I&amp;rsquo;ve been refurbishing dog wheelchairs at &lt;a href=&#34;https://www.arcgoa.in/&#34;&gt;ARC South Goa&lt;/a&gt; using things available in Chaudi (the local town) plus some ideas from Liz Gibson, and will be making a page here to help other folk like me who want to help, but are better at fixing the things around the dogs than the dogs themselves.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevOps Software Engineer Identity</title>
+      <link>http://localhost:1313/willgibson.co.uk/devops-software-engineer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/willgibson.co.uk/devops-software-engineer/</guid>
+      <description>&lt;p&gt;Some &amp;ldquo;day job&amp;rdquo; info is on &lt;a href=&#34;https://www.linkedin.com/in/willygibson/&#34;&gt;my LinkedIn profile&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Maybe I&amp;rsquo;ll write a blog post sometime&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Will Gibson things</title>
+      <link>http://localhost:1313/willgibson.co.uk/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/willgibson.co.uk/home/</guid>
+      <description>&lt;p&gt;A place where I will put some words about me things.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve only started putting this together so I can share some learnings on &lt;a href=&#34;http://localhost:1313/willgibson.co.uk/jugaads/refurbishing-a-dog-wheelchair/&#34;&gt;refurbiushing dog wheelchairs in Goa&lt;/a&gt; with the next encumbent, but I&amp;rsquo;ve been meaning to do something like this site for a while, so I will.&lt;/p&gt;&#xA;&lt;p&gt;2026-02-07&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
