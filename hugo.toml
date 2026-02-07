@@ -1,0 +1,26 @@
+baseURL = 'https://willgibson.co.uk/'
+languageCode = 'en-gb'
+title = 'Will Gibson AKA Walter Ego'
+theme = 'ananke'
+sectionPagesMenu = 'main'
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/home/"
+        weight = 1
+    [[menu.main]]
+        identifier = "devops-software-engineer"
+        name = "DevOps Software Engineer"
+        url = "/devops-software-engineer/"
+        weight = 2
+    [[menu.main]]
+        identifier = "musician-producer"
+        name = "Musician Producer"
+        url = "/musician-producer/"
+        weight = 3
+    [[menu.main]]
+        identifier = "jugaads"
+        name = "Jugaads"
+        url = "/jugaads/"
+        weight = 4
