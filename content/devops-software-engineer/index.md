@@ -1,6 +1,11 @@
 +++
-title = 'DevOps Software Engineer Identity'
+title = 'DevOps Software Engineer'
+[build]
+  list = "local"
+  render = "always"
 +++
-Some "day job" info is on [my LinkedIn profile](https://www.linkedin.com/in/willygibson/).
+For now, see [my LinkedIn profile](https://www.linkedin.com/in/willygibson/).
 
 Maybe I'll write a blog post sometime...
+
+2026-02-07
