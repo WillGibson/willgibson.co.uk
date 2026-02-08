@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Will Gibson on Will Gibson AKA Walter Ego</title>
-    <link>https://willgibson.co.uk/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Will Gibson on Will Gibson AKA Walter Ego</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="https://willgibson.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Feb 2026 21:10:20 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Refurbishing a Dog Wheelchair in Goa</title>
+      <link>http://localhost:1313/jugaads/refurbishing-a-dog-wheelchair/</link>
+      <pubDate>Sat, 07 Feb 2026 21:10:20 +0530</pubDate>
+      <guid>http://localhost:1313/jugaads/refurbishing-a-dog-wheelchair/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been refurbishing dog wheelchairs at &lt;a href=&#34;https://www.arcgoa.in/&#34;&gt;ARC South Goa&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/8-refurbished-dog-wheelchairs.jpg&#34; alt=&#34;8 refurbished dog wheelchairs&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most doggos needing a wheelchair have experienced some kind of spinal trauma that results in some loss of control over their hind quarters. For some dogs the wheelchair will be something they use to aid recovery and have some fun time while they are recovering. For others, it&amp;rsquo;s a long term arrangement.&lt;/p&gt;&#xA;&lt;p&gt;This page is intended to help other folk who, like me, want to help at an animal rescue place, but are better at fixing the things around the dogs than fixing the dogs themselves.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
