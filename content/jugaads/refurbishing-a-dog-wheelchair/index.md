@@ -1,5 +1,5 @@
 +++
-date = '2026-02-07T21:10:20+05:30'
+date = '2026-02-09T23:10:20+05:30'
 title = 'Refurbishing a Dog Wheelchair in Goa'
 +++
 I've been refurbishing dog wheelchairs at [ARC South Goa](https://www.arcgoa.in/).
@@ -8,23 +8,27 @@ I've been refurbishing dog wheelchairs at [ARC South Goa](https://www.arcgoa.in/
 
 Most doggos needing a wheelchair have experienced spinal trauma resulting in some loss of control over their hind quarters. For some dogs the wheelchair will be something they use to aid recovery and have some fun time while they are recovering. For others, it's a long term arrangement.
 
+> Todo: Add video of doggos in wheelchairs.
+
 This page is intended to help other folk who, like me, want to help at an animal rescue place, but are better at fixing the things around the dogs than fixing the dogs themselves.
 
-Many of the spares are no longer available from the manufacturers, and even if they are available, they are expensive by comparison to the jugaad approach, and not available "today". So using things available in Chaudi (the local town) and some ideas from Liz Gibson, I refurbished 9 dog wheelchairs as my contribution to [ARC South Goa](https://www.arcgoa.in/) during this year's stay in our life away from life.
+Sometimes the required parts are not available from the manufacturers, and even if they are available, they are expensive by comparison to the jugaad approach, and not available "today". So using things available in Chaudi (the local town) and some ideas from [Dog House Home Boarding Liz](https://www.doghousehomeboarding.co.uk/about), I refurbished 9 dog wheelchairs as my contribution to [ARC South Goa](https://www.arcgoa.in/) during this year's stay in our life away from life.
 
-If anyone else has been doing this, I would love to see your approaches to solving these problems. You could send me a message via LinkedIn.
+If anyone else has been doing this, I would love to see your approaches to solving these problems. You could send me a message via [LinkedIn](https://www.linkedin.com/in/willygibson).
 
 ## Workspace
 
-Set yourself up with somewhere suitable to work. I found these dog cages to be the perfect height for standing without bending, and they were mostly in shade all day. A towel or something over the stop helps avoid things dropping through and going down a drain. A large food bowel is a good place to keep tools and parts safe.
+Set yourself up with somewhere suitable to work. 
+
+I found these dog cages to be the perfect height for standing without bending, and they were mostly in shade all day. A towel or something over the stop helps avoid things dropping through and going down a drain or something. A large food bowel is a good place to keep tools and parts safe.
 
 ![Suitable workspace](/jugaads/refurbishing-a-dog-wheelchair/images/suitable-workbench.jpg)
 
 ## Frame
 
-Undo all the bolts etc.and apply some lubricant before putting them back in to minimise the risk of them seizing.
+Thwheelchairs needed be adjusted for different dogs, so undo all the bolts etc.and apply some lubricant before putting them back in to minimise the risk of them seizing.
 
-Seized bolts can be left with some WD-40 on them while you go to the beach or whatever before trying again another day. Bashing them often seems to help break the seize too.
+Seized bolts can be left with some WD-40 on soaking into the threads while you pull ticks off dogs, go to the beach, do yoga or whatever. Bashing the bolt heads often seems to help break the seize too.
 
 I also found that some of the wheelchairs used imperial (AKA inch) allen bolts and without a set to hand, had to resort to pliers and muscle.
 
@@ -37,33 +41,33 @@ It's worth setting up the wheelchairs to be roughly the correct adjustment for a
 
 ## Main back end supports
 
-These are where the dogs back legs go through first and support them around the thighs.
+These are where the dog's back legs go through first and support the dog around the thighs.
 
-I replaced some knackered band end supports with garden hose and several strand of electrical cable.
+I replaced some knackered band end supports with garden hose and several strands of single core electrical cable.
 
-Cut the hose to a suitable length with angle cuts to encourage it to round out when pulled tight against the frame.
+Cut the hose to a suitable length using angle cuts to encourage it to round out when pulled tight against the frame.
 
 ![Garden hose cut to be a back leg support](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-cut-hose.jpg)
 
-Figure out how many strands of wire you will be able to get through the holes in the frame. The more the better, both for strength/redundancy and to fill out the hose in order to minimise kinking.
+Figure out how many strands of cable you will be able to get through the holes in the frame. The more the better, both for strength/redundancy and to fill out the hose in order to minimise kinking.
 
-![Wires poked through garden hose](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-poke-wires-through-hose.jpg)
+![Cables poked through garden hose](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-poke-wires-through-hose.jpg)
 
-To start installing the back leg support, thread the wires through the frame.
+To start installing the back leg support, thread the cables through the frame.
 
-![Wires threaded through frame to install the back leg support](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-poke-wires-through-frame.jpg)
+![Cables threaded through frame to install the back leg support](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-poke-wires-through-frame.jpg)
 
-Identify the matching ends by pulling on them and tie each wire with three "granny" knots.
+Identify the matching ends by pulling on them and tie each cable with three "granny" knots.
 
-![Tying the wires](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-tie-wires.jpg)
+![Tying the cables](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-tie-wires.jpg)
 
-Thread all the wire ends behind the knots to reduce the rick of the undoing over time. You may need to jimmy a gap by gently poking a screwdriver behind the clump of knots.
+Thread all the cable ends behind the knots to reduce the rick of the undoing over time. You may need to jimmy a gap by gently poking a screwdriver behind the clump of knots.
 
-![Poking the wires behind the knots](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-poke-wires-through.jpg)
+![Poking the cables behind the knots](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-poke-wires-through.jpg)
 
-Trim off the excess wire.
+Trim off the excess cable.
 
-![Excess wired trimmed off](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-trim-wires.jpg)
+![Excess cable trimmed off](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-trim-wires.jpg)
 
 Now we have two back end supports fitted.
 
@@ -75,11 +79,11 @@ Fixing the back end supports together with some sticky bandage makes it easier t
 
 ## Back leg hangers
 
-At the back end, many dogs need something to support their back feet so they don't drag on the ground causing injury. They often have no idea they are hurting themselves if they are paralysed, so will happy drag their feet around until the skin is rubbed off.
+At the back end, many dogs need something to support their back feet so they don't drag on the ground causing injury. Paralysed dogs often have no idea they are hurting themselves, so will happy drag their feet around until the skin is rubbed off.
 
 PVC pipe and string works well for the back leg hangers.
 
-Thread some string through a suitable length of pipe. Don't be shy with the string, it's tedious when you realise you are a few centimetres short.
+Thread some string through a suitable length of pipe. Don't be shy with the lenght of the string, it's tedious when you realise you are a few centimetres short at the end. 
 
 ![String threaded through pipe](/jugaads/refurbishing-a-dog-wheelchair/images/back-leg-hangers-string-through.jpg)
 
@@ -103,9 +107,11 @@ Finished rear leg hangers.
 
 An alternative to the harnesses that originally came with the wheelchairs is to use a suitable regular dog harness and adding some clips to the front of the wheelchair.
 
+This has the advantage that you can get the front of the dog into the harness before introducing the wheelchair, then get the dog's back legs in before lifting the front of the wheelchair and clipping it on. 
+
 Credit to [Dog House Home Boarding Liz](https://www.doghousehomeboarding.co.uk/about) for this idea.
 
-One option is using a keyring clip for the front harness.
+One option is using a keyring clip to attach the front harness.
 
 ![Using a keyring clip for the front harness](/jugaads/refurbishing-a-dog-wheelchair/images/front-harness-clip-keyring.jpg)
 
