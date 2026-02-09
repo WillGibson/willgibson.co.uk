@@ -4,7 +4,7 @@ title = 'Refurbishing a Dog Wheelchair in Goa'
 +++
 I've been refurbishing dog wheelchairs at [ARC South Goa](https://www.arcgoa.in/).
 
-![8 refurbished dog wheelchairs](images/8-refurbished-dog-wheelchairs.jpg)
+![8 refurbished dog wheelchairs](/jugaads/refurbishing-a-dog-wheelchair/images/8-refurbished-dog-wheelchairs.jpg)
 
 Most doggos needing a wheelchair have experienced some kind of spinal trauma that results in some loss of control over their hind quarters. For some dogs the wheelchair will be something they use to aid recovery and have some fun time while they are recovering. For others, it's a long term arrangement.
 
@@ -18,33 +18,54 @@ To do: Text and image
 
 ## Frame
 
-To do: Text and images
+To do: Text and more images
+
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/frame-using-panner-becuase-imperial-allen-bolts.jpg)
+
 
 ## Main back leg supports
 
-To do: Text and images
+To do: Text
+
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-cut-hose.jpg)
+
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-poke-wires-through-hose.jpg)
+
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-poke-wires-through-frame.jpg)
+
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-tie-wires.jpg)
+
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-poke-wires-through.jpg)
+
+To do: Jimmy with screwdriver image
+
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-trim-wires.jpg)
+
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-fitted.jpg)
+
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/main-back-leg-supports-bandage.jpg)
 
 ## Back leg hangers
 
 To do: Text
 
-![ALT TEXT TO DO](images/back-leg-hangers-string-through.jpg)
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/back-leg-hangers-string-through.jpg)
 
-![ALT TEXT TO DO](images/back-leg-hangers-tying-first-knot.jpg)
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/back-leg-hangers-tying-first-knot.jpg)
 
-![ALT TEXT TO DO](images/back-leg-hangers-second-knot.jpg)
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/back-leg-hangers-second-knot.jpg)
 
-![ALT TEXT TO DO](images/back-leg-hangers-pull-tight-with-pliers.jpg)
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/back-leg-hangers-pull-tight-with-pliers.jpg)
 
-![ALT TEXT TO DO](images/back-leg-hangers-finished.jpg)
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/back-leg-hangers-finished.jpg)
 
 ## Using a regular dog harness at the front
 
 To do: Text and more images
 
-![ALT TEXT TO DO](images/front-harness-clip-keyring.jpg)
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/front-harness-clip-keyring.jpg)
 
-![ALT TEXT TO DO](images/front-harness-clip-carabiner.jpg)
+![ALT TEXT TO DO](/jugaads/refurbishing-a-dog-wheelchair/images/front-harness-clip-carabiner.jpg)
 
 ## Puppy wheelchair
 
@@ -52,4 +73,4 @@ This is much the same as the others, except I used the smaller clear PCV pipe fo
 
 We hope it won't be needed, but it. has been previously and was in a knackered state before refurbishing.
 
-![Refurbished puppy wheelchair](images/puppy-wheelchair.jpg)
+![Refurbished puppy wheelchair](/jugaads/refurbishing-a-dog-wheelchair/images/puppy-wheelchair.jpg)
