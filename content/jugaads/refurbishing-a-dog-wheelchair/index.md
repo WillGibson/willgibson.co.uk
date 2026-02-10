@@ -8,7 +8,7 @@ I've been refurbishing dog wheelchairs at [ARC South Goa](https://www.arcgoa.in/
 
 Most doggos needing a wheelchair have experienced spinal trauma resulting in some loss of control over their hind quarters. For some dogs the wheelchair will be something they use to aid recovery and have some fun time while they are recovering. For others, it's a long term arrangement.
 
-> Todo: Add video of doggos in wheelchairs.
+{{< youtube "AA1itzzn8MQ" >}}
 
 This page is intended to help other folk who, like me, want to help at an animal rescue place, but are better at fixing the things around the dogs than fixing the dogs themselves.
 
