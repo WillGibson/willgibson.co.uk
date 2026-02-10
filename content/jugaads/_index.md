@@ -1,6 +1,6 @@
 +++
 title = 'Jugaads'
-header_height = '300px'
+featured_image = '/jugaads/images/agonda-beach-hut.jpg'
 layout = 'list'
 +++
 > From [Wikipedia's entry for Jugaad](https://en.wikipedia.org/wiki/Jugaad)…
