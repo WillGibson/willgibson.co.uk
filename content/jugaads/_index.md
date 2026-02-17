@@ -10,3 +10,7 @@ layout = 'list'
 To me, a jugaad is what happens when you make good with the things you find around you. 
 
 I prefer a “strong jugaad”, something that will last a decent length of time, and I’m prepared to visit the local town to find suitable materials for a jugaad. Technically, that might be cheating.
+
+Posts:
+
+- [Refurbishing dog wheelchairs in Goa](/jugaads/refurbishing-a-dog-wheelchair/)
