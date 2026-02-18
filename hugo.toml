@@ -2,7 +2,10 @@ baseURL = 'https://willgibson.co.uk'
 languageCode = 'en-gb'
 title = 'Will Gibson AKA Walter Ego'
 theme = 'ananke'
-publishDir = "docs"
+publishDir = "public"
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
 [menu]
     [[menu.main]]
         identifier = "home"
